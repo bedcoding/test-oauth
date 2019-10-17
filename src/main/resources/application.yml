@@ -1,0 +1,16 @@
+# https://engkimbs.tistory.com/849
+
+# [github]
+# https://youtu.be/W0UqG0iUpYk
+# spring.security.oauth2.client.registration.github.client-id=
+# spring.security.oauth2.client.registration.github.client-secret=
+
+# [facebook]
+# https://developers.facebook.com/
+# spring.security.oauth2.client.registration.facebook.client-id=
+# spring.security.oauth2.client.registration.facebook.client-secret=
+
+# [google]
+# https://console.developers.google.com/apis/
+# spring.security.oauth2.client.registration.google.client-id=
+# spring.security.oauth2.client.registration.google.client-secret=
